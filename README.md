@@ -15,3 +15,7 @@ Departmental Dominance: Neurology and Cardiology drive the highest revenue ($0.9
 Operational Bottleneck: Cardiology has the highest average waiting time, suggesting a need for better resource allocation in that department.
 Demographic Focus: ~80% of the patient base falls under the "Adult" category, with Diabetes being the leading diagnosis (~22% of total patients).
 
+How to Use
+- View the HealthCasre_Data.ipynb to see the Pandas transformation logic.
+- Open the Health_Care_Project.pbix to interact with the multi-page report.
+
