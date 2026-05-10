@@ -19,3 +19,4 @@ How to Use
 - View the HealthCasre_Data.ipynb to see the Pandas transformation logic.
 - Open the Health_Care_Project.pbix to interact with the multi-page report.
 
+![Dashboard Screenshot](images/your_image_name.png)
